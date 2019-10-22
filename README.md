@@ -9,6 +9,7 @@
 
 :fries: Angular **PWA**:
 - https://angular.io/guide/service-worker-getting-started
+- https://codigofacilito.com/articulos/deploy-angular-firebase (To Firebase)
  
  :iphone: Ionic:
 - https://ionicframework.com/docs/api/card
